@@ -1,0 +1,13 @@
+# Database files and directories to ignore
+data/
+db.sqlite3
+
+# Python/Django temporary files
+__pycache__/
+*.pyc
+
+# Environment variables/secrets
+.env
+
+# Operating system files
+.DS_Store
